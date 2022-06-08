@@ -149,13 +149,8 @@ BASIC.DIR/GM12878_rDD_v-snoRNA1_rep3_BR.HG38B.E.bdg
 ## 10. Quality control Table
 
 GM12878_rDD_v-snoRNA1_rep3_BR.final_stats.tsv
+![](GM12878_rDD_v-snoRNA1_rep3_BR.final_stats.png)
 
-```{r echo=FALSE}
-library("knitr")
-FIN=read.table("GM12878_rDD_v-snoRNA1_rep3_BR.final_stats.tsv")
-colnames(FIN)<-c("Item","Value")
-kable(FIN,caption=NULL)
-```
 \pagebreak 
 
 ## 11. Quality control Plots
