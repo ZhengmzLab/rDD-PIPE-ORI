@@ -1,12 +1,5 @@
----
-title: "rDD-PIPE.README"
-author: "Simon Zhongyuan Tian"
-date: "6/7/2022"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
+# rDD-PIPE
+
 ## 0. Operation system
 ```
 # This pipeline is running in an Ubuntu 20.04 for rDD library processing
