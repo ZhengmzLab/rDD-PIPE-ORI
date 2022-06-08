@@ -144,14 +144,14 @@ BASIC.DIR/GM12878_rDD_v-snoRNA1_rep3_BR.HG38B.E.bdg
 ```
 ## 9. Data vasualization
 ![](Browser.png )
-\pagebreak 
+
 
 ## 10. Quality control Table
 
 GM12878_rDD_v-snoRNA1_rep3_BR.final_stats.tsv
 ![](GM12878_rDD_v-snoRNA1_rep3_BR.final_stats.png)
 
-\pagebreak 
+
 
 ## 11. Quality control Plots
 GM12878_rDD_v-snoRNA1_rep3_BR.QC.pdf
