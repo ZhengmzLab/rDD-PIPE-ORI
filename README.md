@@ -1,5 +1,9 @@
 # rDD-PIPE
 
+To Reviewers: Please goto https://doi.org/10.5281/zenodo.6623224
+
+To users: we will realiease full version rDD-PIPE as soon as posiable
+
 ## 0. Operation system
 ```
 # This pipeline is running in an Ubuntu 20.04 for rDD library processing
