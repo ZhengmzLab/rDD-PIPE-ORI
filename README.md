@@ -1,8 +1,6 @@
 # rDD-PIPE
 
-To Reviewers: Please goto https://doi.org/10.5281/zenodo.6623224
-
-To users: we will realiease full version rDD-PIPE as soon as posiable
+To users: we will realiease source code later.
 
 ## 0. Operation system
 ```
