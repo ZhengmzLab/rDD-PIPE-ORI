@@ -1,6 +1,6 @@
 # rDD-PIPE
 
-To users: we will realiease source code later.
+To users: we will realiease the source code later.
 
 ## 0. Operation system
 ```
