@@ -36,46 +36,7 @@ $ ln -s /path-to-fastq/GM12878_rDD_v-snoRNA1_rep3_BR_2.fq.gz
 ```{bash eval=FALSE, include=TRUE}
 $ sh PRE01_install_soft.sh
 ```
-```
-conda create --name rddpp 
 
-conda activate rddpp
-
-conda install git
-cd /mnt/hgfs/script/rDDPP
-
-## clone ChIA_PIPE
-git clone https://github.com/TheJacksonLaboratory/ChIA-PIPE.git
-###############################################################
-## install packages
-conda install -c bioconda pysam biopython regex macs2 pigz
-
-
-## Install java/1.8
-sudo apt install openjdk-8-jre-headless
-
-## Install perl/5.26.0
-conda install perl=5.26.0
-
-
-sudo apt-get update
-sudo apt-get install g++
-sudo apt install make
-sudo apt-get install libz-dev
-
-
-
-## Install bedtools 2.26.0
-conda install -c bioconda  bedtools=2.26.0
-
-
-
-## Install samtools/1.9
-conda install -c bioconda samtools=1.9 --force-reinstall
-
-## Install R/3.6.1
-conda install R=3.6.1
-```
 ## 4. Generate reference genome (hg38-EBV.B958)
 ```{bash eval=FALSE, include=TRUE}
 $ sh PRE02_hg38B_genome.sh
