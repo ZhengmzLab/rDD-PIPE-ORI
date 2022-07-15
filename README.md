@@ -145,19 +145,19 @@ BASIC.DIR/GM12878_rDD_v-snoRNA1_rep3_BR.HG38B.E.bdg
 """
 ```
 ## 9. Data vasualization
-![](Browser.png )
+
+![image](https://user-images.githubusercontent.com/88769457/179134815-f19bedfa-e9f0-48aa-9d26-2447a1f88c0a.png)
 
 
 ## 10. Quality control Table
 
 GM12878_rDD_v-snoRNA1_rep3_BR.final_stats.tsv
-![](GM12878_rDD_v-snoRNA1_rep3_BR.final_stats.png)
 
+![image](https://user-images.githubusercontent.com/88769457/179134866-5584f0c0-da30-4bbe-9397-32b817e37400.png)
 
 
 ## 11. Quality control Plots
-GM12878_rDD_v-snoRNA1_rep3_BR.QC.pdf
+![image](https://user-images.githubusercontent.com/88769457/179134913-23180f2a-5067-4a1a-8f30-2763ab2fc485.png)
 
 
-![](GM12878_rDD_v-snoRNA1_rep3_BR.QC.png)
 
